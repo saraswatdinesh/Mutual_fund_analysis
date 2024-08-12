@@ -33,7 +33,7 @@ Should you increase those percentages, GST, and other taxes the total investment
 
 **Data Gathering and Data Preparation**
 
-Scrape the Yahoo finance website for the BSE historical month-on-month details, and calculate the return percentage, and build the profile of the historical data. 
+Scrape the Yahoo finance website for the BSE historical month-on-month details, calculate the return percentage, and build the profile of the historical data. 
 
 Mock up the data with the provided SIP amount, expected rate of return, tenure in months, if planning to increase the SIP, if yes then when and what percentage. 
 
@@ -41,10 +41,11 @@ Once you have the information we create the final data with the help of pandas a
 
 **Plot the data and conclude**
 
-When we plotted the calculated values from the data gathered and generated, we noticed that it's better to invest directly instead of via mutual fund if the returns by mutual fund house are expected to be less than **14%**. If the mutual fund houses can generate returns of more than 14% in BSE index funds category then we can consider going with the mutual investment strategy. 
+When we plotted the calculated values from the data gathered and generated, we noticed that it's better to invest directly instead of via mutual fund if the returns by mutual fund house are expected to be less than **14%**. If the mutual fund houses can generate returns of more than 14% in the BSE index funds category then we can consider going with the mutual investment strategy. 
 
 
-TO conclude **can SIP make you rich**, I tend to side with the caution of **no**. Reasoning being, if I check the return based on my total investement of 120000 over 10 year I could 
+To conclude **can SIP make you rich?**, I tend to side with the caution of **no**. The reasoning is, that if we check the return based on the total investment of 120000 over 10 years, we notice that it becomes almost 1.5 times. So, yes it can help you save your wealth by beating inflation and money depreciation, which traditionally hovers around 6% on average in the past. 
 
+To create wealth or become rich other investment methods need to be explored and SIP and index investing should help you accumulate the wealth and save money you have earned. 
 
-
+Looking for the feedback and any new different approach.
