@@ -29,6 +29,22 @@ The mutual fund expense ratio was kept at 0.5% which is the industry minimum and
 Should you increase those percentages, GST, and other taxes the total investment amount and the returns will differ. 
 
 
+# Approach 
+
+**Data Gathering and Data Preparation**
+
+Scrape the Yahoo finance website for the BSE historical month-on-month details, and calculate the return percentage, and build the profile of the historical data. 
+
+Mock up the data with the provided SIP amount, expected rate of return, tenure in months, if planning to increase the SIP, if yes then when and what percentage. 
+
+Once you have the information we create the final data with the help of pandas and calculate the mutual fund value, invested value, and bse returns after every month. 
+
+**Plot the data and conclude**
+
+When we plotted the calculated values from the data gathered and generated, we noticed that it's better to invest directly instead of via mutual fund if the returns by mutual fund house are expected to be less than **14%**. If the mutual fund houses can generate returns of more than 14% in BSE index funds category then we can consider going with the mutual investment strategy. 
+
+
+TO conclude **can SIP make you rich**, I tend to side with the caution of **no**. Reasoning being, if I check the return based on my total investement of 120000 over 10 year I could 
 
 
 
