@@ -1,5 +1,9 @@
 # Mutual Fund vs. Index Fund: A Data-Driven Comparison
 
+![DALL·E 2024-09-19 15 56 04 - A split road leading toward a financial goal, with two paths_ one representing mutual funds and the other index funds  The mutual fund path has symbol](https://github.com/user-attachments/assets/f2ef1710-9bc4-48cf-99ac-a55681acb7ed)
+
+
+
 ## Introduction
 For years, the debate has persisted: is investing in mutual funds through a Systematic Investment Plan (SIP) the best strategy for wealth accumulation, or is it simply a marketing tactic by fund houses to ensure regular inflows of capital? Advertisements frequently position SIPs as a secure and promising method of growing wealth, but these claims often overlook the risks of the market and the management fees deducted from the investor's pocket.
 
