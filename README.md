@@ -1,7 +1,6 @@
 # Mutual Fund vs. Index Fund: A Data-Driven Comparison
 
-![DALL·E 2024-09-19 15 56 04 - A split road leading toward a financial goal, with two paths_ one representing mutual funds and the other index funds  The mutual fund path has symbol](https://github.com/user-attachments/assets/f2ef1710-9bc4-48cf-99ac-a55681acb7ed)
-
+![DALL·E 2024-09-19 15 58 47 - A detailed comparison image of mutual funds versus index funds  On one side, mutual funds are represented with symbols like a person actively managing](https://github.com/user-attachments/assets/2c801b06-b053-4738-ab9f-f9d0af1bdd16)
 
 
 ## Introduction
