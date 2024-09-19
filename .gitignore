@@ -2,7 +2,7 @@
 .venv/
 
 # #Ignore Pychache 
-__pychache__/
+__pycache__/
 
 # Ignore vscode file
 
