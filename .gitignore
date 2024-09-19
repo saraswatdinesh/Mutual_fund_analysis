@@ -1,0 +1,9 @@
+# Ignore the virtual environment 
+.venv/
+
+# #Ignore Pychache 
+__pychache__/
+
+# Ignore vscode file
+
+.vscode/
